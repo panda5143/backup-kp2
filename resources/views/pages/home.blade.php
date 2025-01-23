@@ -14,7 +14,7 @@
             <h1 class="text-4xl md:text-6xl font-bold text-white mb-4">
                 Data Inventaris Aset
             </h1>
-            <h2 class="text-2xl md:text-4xl font-bold text-white">
+            <h2 class="text-4xl md:text-4xl font-bold text-white">
                 DISDIKBUDPORA
             </h2>
         </div>
