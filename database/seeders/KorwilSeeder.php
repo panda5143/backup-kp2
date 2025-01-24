@@ -59,6 +59,84 @@ class KorwilSeeder extends Seeder
                 'created_at' => Carbon::now(),
                 'updated_at' => Carbon::now(),
             ],
+            [
+                'nama' => 'BRINGIN',
+                'gambar' => 'korwil-images/BRINGIN.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'GETASAN',
+                'gambar' => 'korwil-images/GETASAN.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'JAMBU',
+                'gambar' => 'korwil-images/JAMBU.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'KALIWUNGU',
+                'gambar' => 'korwil-images/KALIWUNGU.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'PABELAN',
+                'gambar' => 'korwil-images/PABELAN.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'PRINGAPUS',
+                'gambar' => 'korwil-images/PRINGAPUS.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'SUMOWONO',
+                'gambar' => 'korwil-images/SUMOWONO.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'SURUH',
+                'gambar' => 'korwil-images/SURUH.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'SUSUKAN',
+                'gambar' => 'korwil-images/SUSUKAN.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'TENGARAN',
+                'gambar' => 'korwil-images/TENGARAN.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'TUNTANG',
+                'gambar' => 'korwil-images/TUNTANG.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'UNGARAN BARAT',
+                'gambar' => 'korwil-images/UNGARAN BARAT.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'nama' => 'UNGARAN TIMUR',
+                'gambar' => 'korwil-images/UNGARAN TIMUR.jpg',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
             // ... tambahkan data lainnya
         ];
 
